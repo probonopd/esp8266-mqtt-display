@@ -8,7 +8,8 @@ The sketch is intended to be robust against intermittent WLAN. It tries to recon
 
 * ESP8266 device like NodeMCU
 * 16x2 character LCD with i2s backpack
-
+* A MQTT broker (can be with encryption) where you can freely add topics and create users with credentials, such as https://cloud-intl.emqx.com/ which has a free tier
+  
 ## Downloading
 
 From GitHub Actions under "Summary", "Artifacts"
