@@ -56,5 +56,5 @@ screen /dev/ttyU0 115200
 
 Contributions are welcome.
 
-- Use a speaker or DAC to play messages
+- [ ] Use a speaker or DAC to play messages
 - [ ] ...
