@@ -6,7 +6,8 @@ The sketch is intended to be robust against intermittent WLAN. It tries to recon
 
 ## System Requirements
 
-ESP8266 device like NodeMCU.
+* ESP8266 device like NodeMCU
+* 16x2 character LCD with i2s backpack
 
 ## Downloading
 
